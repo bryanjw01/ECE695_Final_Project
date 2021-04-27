@@ -1,9 +1,9 @@
 # ECE695_Final_Project
 
-##Project Overview:
+## Project Overview:
 
 
-##Refences:
+## Refences:
 
 @misc{radford2016unsupervised,
       title={Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks}, 
