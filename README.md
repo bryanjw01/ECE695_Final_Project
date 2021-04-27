@@ -2,6 +2,9 @@
 
 ## Project Overview:
 
+## Presentation Slides:
+
+https://docs.google.com/presentation/d/1PV-z4uMzpy1nJBi7GXPSeMeMgGYGsn9o1UsiJFFzqDM/edit?usp=sharing
 
 ## Refences:
 
