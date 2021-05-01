@@ -22,20 +22,6 @@ The idea for this implementation came from the research paper called "To BAN or 
 
 ## Project Layout:
 
--- MCD Demo
-    --- MCD_Demo.ipynb
--- MCD
-    --- 
-    ---
-    ---
-    ---
-    ---
--- DCGAN
-    ---
-    ---
-    ---
-    ---
-    ---
 
 
 ## How To Run:
