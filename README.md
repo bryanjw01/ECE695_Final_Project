@@ -1,4 +1,4 @@
-# ECE695_Final_Project
+# ECE695 Final Project
 
 ## Project Overview:
 
