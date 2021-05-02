@@ -18,6 +18,10 @@ For the first part of this project I applied some of the concepts from DCGAN on 
 
 The idea for this implementation came from the research paper called "To BAN or not to BAN" where the researchers applied Monte Carlo Dropout on BERT models in a classification where the BERT model had to find out if a piece of text contained hate speech. In my use of Monte Carlo Dropout, I will be using in a machine translation task in hopes that it will help solve some of the issues that having a small dataset introduces into the model.
 
+## Results:
+
+Results can be seen in two seperate places. The first place are the slides that I reference down below and the second place is in the jupyter notebook files within the /MCD and /DCGAN directories.
+
 ## Presentation Slides:
 
 https://docs.google.com/presentation/d/1PV-z4uMzpy1nJBi7GXPSeMeMgGYGsn9o1UsiJFFzqDM/edit?usp=sharing
