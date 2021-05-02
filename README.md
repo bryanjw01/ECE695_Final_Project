@@ -14,19 +14,9 @@ In this project, we will be attempting to solve these issues by generating new d
 
 For the first part of this project I applied some of the concepts from DCGAN on ECoG data to try to generate more data. Then I utilized an svm to map the generated data onto which category the data belong to. Finally, we applied added this data into our dataset and observed the impact.
 
-### Monte Carlo Dropout on Transformer model for Machine Translation Task:
+#### Monte Carlo Dropout on Transformer model for Machine Translation Task:
 
 The idea for this implementation came from the research paper called "To BAN or not to BAN" where the researchers applied Monte Carlo Dropout on BERT models in a classification where the BERT model had to find out if a piece of text contained hate speech. In my use of Monte Carlo Dropout, I will be using in a machine translation task in hopes that it will help solve some of the issues that having a small dataset introduces into the model.
-
-
-
-## Project Layout:
-
-
-
-## How To Run:
-
-
 
 ## Presentation Slides:
 
